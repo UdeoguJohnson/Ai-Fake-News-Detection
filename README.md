@@ -16,8 +16,8 @@ An AI-powered web app that detects and classifies fake news articles using Natur
 ## 🛠️ Tech Stack
 - **Language**: Python  
 - **ML Libraries**: Scikit-learn, Pandas, NumPy  
-- **NLP**: NLTK or spaCy  
-- **Web Framework**: Flask or Streamlit (TBD)  
+- **NLP**: NLTK or spaCy
+- **Web Framework**: Flask or Django (TBD)  
 - **Model Types**: Logistic Regression, Random Forest, SVM
 
 ## 📈 Dataset
@@ -38,6 +38,6 @@ An AI-powered web app that detects and classifies fake news articles using Natur
 
 ## 📫 Contact
 Questions, suggestions, or collaborations?  
-📧 [Udeogujohnson@gmail.com]  
-🔗 [www.linkedin.com/in/udeogujohnson)
+📧 Udeogujohnson@gmail.com
+🔗 www.linkedin.com/in/udeogujohnson
 
